@@ -1,4 +1,4 @@
-# School_District_Analysis-batman
+# School_District_Analysis
 
 ## Overview of Project
 
